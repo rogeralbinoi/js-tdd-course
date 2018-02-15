@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeralbinoi/js-tdd-course.git"
+  },
+  "author": "Roger Albino <roger.albino.i@gmail.com> (http://rogeralbino.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogeralbinoi/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/rogeralbinoi/js-tdd-course#readme"
+}
